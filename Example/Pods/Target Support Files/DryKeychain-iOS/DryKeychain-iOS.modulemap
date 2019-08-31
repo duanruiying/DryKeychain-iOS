@@ -1,0 +1,6 @@
+framework module DryKeychain_iOS {
+  umbrella header "DryKeychain-iOS-umbrella.h"
+
+  export *
+  module * { export * }
+}

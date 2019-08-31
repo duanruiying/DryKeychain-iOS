@@ -1,0 +1,16 @@
+PODS:
+  - DryKeychain-iOS (0.1.0)
+
+DEPENDENCIES:
+  - DryKeychain-iOS (from `../`)
+
+EXTERNAL SOURCES:
+  DryKeychain-iOS:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  DryKeychain-iOS: 342f15e72057d4a72aecd3a66016dd24ddc4d0d5
+
+PODFILE CHECKSUM: d1524658bf19a733cae2a6340aa0b45ed6d8d43b
+
+COCOAPODS: 1.7.4
